@@ -8,6 +8,9 @@ flask
 pylintrc
 .coveragerc
 
+# Polichombr server configuration file
+polichombr/config.py
+
 # Polichombr local storage
 polichombr/storage/*
 

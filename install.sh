@@ -8,3 +8,5 @@ git submodule update metasm
 virtualenv flask
 source flask/bin/activate
 pip install -r requirements.txt
+
+cp polichombr/config.py.sample polichombr/config.py
